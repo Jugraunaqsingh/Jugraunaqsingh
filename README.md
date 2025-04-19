@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F749DC&background=6883FF00&width=435&lines=Hi!+I'm+Jugraunaq+Singh;Aspiring+Software+Engineer;%26+ML+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=manya706&label=PROFILE+VIEWS&color=ff69b4&style=flat-square)
 
 ```markdown
 

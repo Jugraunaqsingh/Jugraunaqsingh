@@ -59,6 +59,26 @@ interests:
 </div>
 
 ---
+---
+
+##
+[![Jugraunaq Singh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jugraunaqsingh&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+##
+
+---
+---
+
+## 🧠 LeetCode Stats
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Jugraunaqsingh?theme=dark&font=JetBrains+Mono&ext=heatmap)](https://leetcode.com/Jugraunaqsingh)
+ <!-- Updated LeetCode username -->
+
+</div>
+
+---
+
 
 
 ## 🚀 Connect With Me:
@@ -111,11 +131,7 @@ interests:
 - 📝 Resume: [View Resume](https://drive.google.com/file/d/1hUDLt0_hyVspSTvCpIivYuyN97hEdQ7I/view?usp=sharing)
 - 📬 Contact: jugraunaqsingh@gmail.com
 
----
 
-##
-[![Jugraunaq Singh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jugraunaqsingh&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-##
 
 ---
 ## 📊 GitHub Stats
@@ -126,6 +142,7 @@ interests:
 </div>
 
 ---
+
 
 <div align="center">
    <a href="https://git.io/typing-svg">

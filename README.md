@@ -134,7 +134,6 @@
 - 🔭 Currently building: [MFCC-Based Clinical Depression Detection via Speech](https://github.com/Jugraunaqsingh/Depression-WebApp-MFCC-RNN)
 - 🛍️ Full stack: [Online Shopping Website](https://github.com/Jugraunaqsingh/JugraunaqDripStore)
 - 🌐 Portfolio: [jugraunaq-singh-portfolio-2.onrender.com](https://jugraunaq-singh-portfolio-2.onrender.com)
-- 📝 Resume: [View Resume](https://drive.google.com/file/d/1hUDLt0_hyVspSTvCpIivYuyN97hEdQ7I/view?usp=sharing)
 - 📬 Contact: jugraunaqsingh@gmail.com
 
 

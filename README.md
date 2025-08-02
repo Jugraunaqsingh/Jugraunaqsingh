@@ -1,8 +1,28 @@
+
+
+<!-- ORIGINAL -->
+<!-- Pokeball image -->
+<p align="center">
+ <p align="center"><img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of pokeball"></p>
+</p>
+
+
+<!-- START COLLAPSIBLE SECTION -->
+<details>
+  <summary align="center"><strong>👾✨ Dive Into My Dev World – Click to Explore! 🚀📂</strong></summary>
+
+
+<br>
+
+
+
 <div align="center"; margin-bottom="60";>
   <img style="max-width:60/%;height:auto;" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+<!--   <img style="max-width:60/%;height:auto;" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"> -->
 </div>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F749DC&background=6883FF00&width=435&lines=Hi!+I'm+Jugraunaq+Singh;Aspiring+Software+Engineer;%26+ML+Enthusiast;Welcome+to+my+GitHub!" alt="Typing SVG" />
+    
 </p>
 
 <h2 align="center">👨‍💻 About Me</h2>
@@ -47,15 +67,15 @@
 
 | 🎙️ [**Depression Detection**](https://github.com/Jugraunaqsingh/Depression-WebApp-MFCC-RNN) | 🔐 [**JWT Auth + Order System**](https://github.com/Jugraunaqsingh/jwt-user-order-service) |
 | :------------------------------------------------------------ | :------------------------------------------------------------ |
-| <h3>![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=🎙️+Clinical+Depression+Detection+via+Speech;🧠+MFCC+Audio+Features+%2B+RNN+Model;⚡+FastAPI+%7C+React+%7C+CuPy+GPU+Optimized;📦+Docker+%7C+MongoDB+Feedback+Loop)</h3> | <h3>![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=🔐+JWT-Based+Auth+and+Order+System;💼+Spring+Boot+%7C+RBAC+for+Admin+%2F+User;🛠️+REST+APIs+%2B+Postman+Test+Suites;🗃️+MySQL+%2B+Modular+Microservices)</h3> |
+| <h1>![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=🎙️+Clinical+Depression+Detection+via+Speech;🧠+MFCC+Audio+Features+%2B+RNN+Model;⚡+FastAPI+%7C+React+%7C+CuPy+GPU+Optimized;📦+Docker+%7C+MongoDB+Feedback+Loop)</h3> | <h3>![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=🔐+JWT-Based+Auth+and+Order+System;💼+Spring+Boot+%7C+RBAC+for+Admin+%2F+User;🛠️+REST+APIs+%2B+Postman+Test+Suites;🗃️+MySQL+%2B+Modular+Microservices)</h3> |
 
 | 🧩 [**Low Level Design**](https://github.com/Jugraunaqsingh/LowLevelDesign) | 🛍️ [**Jugraunaq DripStore**](https://github.com/Jugraunaqsingh/JugraunaqDripStore) |
 | :------------------------------------------------------------ | :------------------------------------------------------------ |
-| <h3>![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=FF7F50&center=true&vCenter=true&width=600&lines=🧩+LLD+System+Design+Practice+in+Java;📐+BookMyShow+%2C+Parking+Lot+%2C+LLD+Cases;✅+OOP+Principles+%2B+SOLID+%2B+GoF+Designs;📚+Perfect+for+Low+Level+Design+Interviews)</h3> | <h3>![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=EA4C89&center=true&vCenter=true&width=600&lines=🛒+MERN+Full-Stack+E-Commerce+Website;🧾+Cart+%2F+Checkout+%2F+Admin+Product+Panel;🎨+Styled+with+TailwindCSS+%2B+Redux+State+Mgmt;🔐+Authentication+%2B+Responsive+Design)</h3> |
+| <h1>![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=FF7F50&center=true&vCenter=true&width=600&lines=🧩+LLD+System+Design+Practice+in+Java;📐+BookMyShow+%2C+Parking+Lot+%2C+LLD+Cases;✅+OOP+Principles+%2B+SOLID+%2B+GoF+Designs;📚+Perfect+for+Low+Level+Design+Interviews)</h3> | <h3>![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=EA4C89&center=true&vCenter=true&width=600&lines=🛒+MERN+Full-Stack+E-Commerce+Website;🧾+Cart+%2F+Checkout+%2F+Admin+Product+Panel;🎨+Styled+with+TailwindCSS+%2B+Redux+State+Mgmt;🔐+Authentication+%2B+Responsive+Design)</h3> |
 
 | 🌐 [**Portfolio Website**](https://jugraunaq-singh-portfolio-2.onrender.com/) | 📊 [**BCG Churn Analysis**](https://github.com/Jugraunaqsingh/BCG-Churn-Analysis-Case-Study) |
 | :------------------------------------------------------------ | :------------------------------------------------------------ |
-| <h3>![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=🌐+My+Developer+Portfolio+Showcase;💼+React+%2B+Tailwind+%2B+Responsive+Design;📎+Project+Links+%2F+Resume+%2F+Contact+Info;🚀+Hosted+Live+on+Render)</h3> | <h3>![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=📊+BCG+Churn+Prediction+%7C+Virtual+Internship+via+Forage;📈+EDA+%2F+Feature+Engineering+%2F+Modeling+Pipeline;🤖+92%25+Accuracy+%2C+0.94+AUC+%2C+F1+Score+0.89;🎯+Actionable+Insights+for+Retention+%2B+Customer+Engagement)</h3> |
+| <h1>![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=🌐+My+Developer+Portfolio+Showcase;💼+React+%2B+Tailwind+%2B+Responsive+Design;📎+Project+Links+%2F+Resume+%2F+Contact+Info;🚀+Hosted+Live+on+Render)</h3> | <h3>![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=📊+BCG+Churn+Prediction+%7C+Virtual+Internship+via+Forage;📈+EDA+%2F+Feature+Engineering+%2F+Modeling+Pipeline;🤖+92%25+Accuracy+%2C+0.94+AUC+%2C+F1+Score+0.89;🎯+Actionable+Insights+for+Retention+%2B+Customer+Engagement)</h3> |
 
 ---
 
@@ -157,3 +177,9 @@
    
    <h3>Show some ❤️ by starring some of the repositories!</h3>
 </div>
+
+
+
+
+</details>
+<p align="center" ><img src="https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png" alt="Bottom of pokeball"></p>

@@ -111,18 +111,16 @@
 ##
 
 ---
----
+
 
 ## 🧠 LeetCode Stats
-
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Jugraunaqsingh?theme=dark&font=JetBrains+Mono&ext=heatmap)](https://leetcode.com/Jugraunaqsingh)
- <!-- Updated LeetCode username -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/jugraunaqsingh?theme=dark&font=Source%20Code%20Pro&ext=heatmap)](https://leetcode.com/u/jugraunaqsingh/)
 
 </div>
-
 ---
+
 
 
 

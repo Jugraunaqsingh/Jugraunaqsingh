@@ -36,66 +36,69 @@
 
 ---
 
-💼 <strong>Current Projects</strong>  
-• 🎙️ Clinical Depression Detection using MFCC + RNN  
-• 🛍️ Full Stack Shopping Website  
-
----
-
-🎯 <strong>Interests</strong>  
-🏸 Badminton &nbsp;&nbsp; | &nbsp;&nbsp; 🧠 AI/ML &nbsp;&nbsp; | &nbsp;&nbsp; ⚡ Hackathons &nbsp;&nbsp; | &nbsp;&nbsp; 🚀 Startup Culture
-
-</div>
-
-
 ## <h3 align="center">🚀✨ Featured Repositories & Projects ✨🚀</h3>
-
 <p align="center">
   <img src="https://img.icons8.com/fluency/48/rocket.png" width="30"/>
   &nbsp;<i>A mobile-optimized showcase of my top open-source projects across AI, Full Stack, and System Design</i>
   &nbsp;<img src="https://img.icons8.com/color/48/source-code.png" width="30"/>
 </p>
 
----
 <div align="center">
 
-<h2><u>🎙️ <a href="https://github.com/Jugraunaqsingh/Depression-WebApp-MFCC-RNN">Depression Detection</a></u></h2>
-
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF69B4&center=false&vCenter=true&width=1000&lines=🎙️+Detects+Clinical+Depression+from+Voice+Samples+Using+User+Speech+Patterns;🧠+MFCC+Audio+Feature+Extraction+%2B+Multi-Task+RNN+Model+for+PHQ+Score+Prediction;⚡+Real-Time+Inference+via+FastAPI+%2B+React+Frontend+with+Audio+Interface;📦+GPU-Accelerated+Audio+Preprocessing+via+CuPy+%7C+Dockerized+Deployment+Setup;📊+Stores+Doctor+Feedback+%2B+Retrains+Model+Periodically+via+MongoDB)
-
----
-
-<h2><u>🔐 <a href="https://github.com/Jugraunaqsingh/jwt-user-order-service">JWT Auth + Order System</a></u></h2>
-
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=0A66C2&center=false&vCenter=true&width=1000&lines=🔐+Robust+JWT-Based+Authentication+%2F+Authorization+for+Admin+%26+Users+with+RBAC;💼+Spring+Boot+Microservice+Architecture+with+Role-Specific+Routing+Capabilities;🛠️+Modular+Order+Placement+%2F+Tracking+APIs+with+Postman+Test+Suites;🗃️+MySQL+Database+Integration+%7C+Secured+CRUD+Operations+via+DTO+Mapping)
-
----
-
-<h2><u>🧩 <a href="https://github.com/Jugraunaqsingh/LowLevelDesign">Low Level Design</a></u></h2>
-
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF7F50&center=false&vCenter=true&width=1000&lines=🧩+Java-Based+LLD+Practice+for+Scalable+Backend+System+Design+Interviews;📐+Detailed+End-to-End+Designs+for+Parking+Lot%2C+BookMyShow%2C+Splitwise;✅+Covers+OOP+Concepts%2C+SOLID+Principles%2C+GoF+Design+Patterns+in+Depth;📚+Clean+Code+UML-Driven+Breakdown+of+Architecture+and+Responsibilities)
-
----
-
-<h2><u>🛍️ <a href="https://github.com/Jugraunaqsingh/JugraunaqDripStore">Jugraunaq DripStore</a></u></h2>
-
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=EA4C89&center=false&vCenter=true&width=1000&lines=🛒+Fully+Functional+E-Commerce+Platform+Built+Using+MERN+Stack+Technologies;🧾+Features+Product+Catalog%2C+Admin+Panel%2C+Cart%2C+Checkout+Flows+with+JWT;🎨+TailwindCSS-Based+UI+with+Redux+for+Dynamic+State+Management+Flows;🔐+Includes+Auth%2C+Login%2FSignup%2C+Secure+Session+Storage+%2B+Mobile+Design)
-
----
-
-<h2><u>🌐 <a href="https://jugraunaq-singh-portfolio-2.onrender.com/">Portfolio Website</a></u></h2>
-
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FACC15&center=false&vCenter=true&width=1000&lines=🌐+Personal+Developer+Portfolio+Created+Using+React+%2B+TailwindCSS+Stack;💼+Contains+Project+Showcase%2C+Resume+PDF+Download%2C+Contact+Form+Access;🚀+Includes+Animations%2C+Dark+Mode%2C+Mobile+Responsiveness+%2C+Live+Deployment;📎+Professional+Branding+Website+Hosted+Live+on+Render+Cloud+Platform)
-
----
-
-<h2><u>📊 <a href="https://github.com/Jugraunaqsingh/BCG-Churn-Analysis-Case-Study">BCG Churn Analysis</a></u></h2>
-
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=38B2AC&center=false&vCenter=true&width=1000&lines=📊+Virtual+Internship+Capstone+with+BCG+via+Forage+Simulated+Case+Study;📈+Performed+EDA%2C+Feature+Engineering%2C+Model+Selection+on+Customer+Data;🤖+Built+92%25+Accurate+Random+Forest+Model+with+0.94+AUC+and+F1%3D0.89;🎯+Generated+Retention+Insights+and+Reduced+False+Churn+Alarms+by+12%25)
+| Project | Description | Tech | Status |
+|---------|-------------|------|--------|
+| **[Depression Detection](https://github.com/Jugraunaqsingh/Depression-WebApp-MFCC-RNN)** | Clinical Depression Prediction via Speech | Python, FastAPI, React, Docker, CuPy | ![Complete](https://img.shields.io/badge/-COMPLETE-00C853?style=flat-square) |
+| **[JWT Auth + Order System](https://github.com/Jugraunaqsingh/jwt-user-order-service)** | Secure Role-Based Auth + Order APIs | Java, Spring Boot, JWT, MySQL | ![Complete](https://img.shields.io/badge/-COMPLETE-00C853?style=flat-square) |
+| **[Low Level Design](https://github.com/Jugraunaqsingh/LowLevelDesign)** | LLD System Design Problems in Java | Java, OOP, SOLID, Design Patterns | ![Practice](https://img.shields.io/badge/-PRACTICE-FFD600?style=flat-square) |
+| **[Jugraunaq DripStore](https://github.com/Jugraunaqsingh/JugraunaqDripStore)** | Full-Stack E-Commerce App | MERN Stack, Tailwind, Redux | ![Live](https://img.shields.io/badge/-LIVE-00C853?style=flat-square) |
+| **[Portfolio Website](https://jugraunaq-singh-portfolio-2.onrender.com/)** | Personal Portfolio and Resume Site | React, Tailwind CSS | ![Live](https://img.shields.io/badge/-LIVE-00C853?style=flat-square) |
+| **[BCG Churn Analysis](https://github.com/Jugraunaqsingh/BCG-Churn-Analysis-Case-Study)** | Churn Prediction with ML Pipeline | Python, Pandas, Sklearn | ![Complete](https://img.shields.io/badge/-COMPLETE-00C853?style=flat-square) |
 
 </div>
 
+
 ---
+
+🎯 <strong>Interests</strong>  
+🏸 Badminton &nbsp;&nbsp; | &nbsp;&nbsp; 🧠 AI/ML &nbsp;&nbsp; | &nbsp;&nbsp; ⚡ Hackathons &nbsp;&nbsp; | &nbsp;&nbsp; 🚀 Startup Culture
+---
+
+## <h3 align="center">🚀✨ Deep Dive into the Projects ✨🚀</h3>
+
+</div>
+<div align="center">
+
+## 🎙️ Depression Detection
+Detects clinical depression from user voice samples using MFCC-based audio features and a multi-task RNN model. Includes real-time inference with a React + FastAPI interface, CuPy-powered GPU preprocessing, Docker deployment, and a MongoDB-based feedback loop for retraining.
+
+---
+
+## 🔐 JWT Auth + Order System
+Robust Spring Boot application featuring JWT-based user/admin authentication with RBAC. Offers modular REST APIs for order placement and tracking, secured via DTOs and integrated with a MySQL backend.
+
+---
+
+## 🧩 Low Level Design
+Java-based repository focused on scalable system design interview preparation. Includes full LLDs for Parking Lot, BookMyShow, and Splitwise using OOP, SOLID principles, and GoF design patterns with UML breakdowns.
+
+---
+
+## 🛍️ Jugraunaq DripStore
+MERN-based full-stack e-commerce platform with product catalog, cart, checkout, and admin inventory panel. Features TailwindCSS styling, Redux state management, JWT auth, and mobile-first responsive design.
+
+---
+
+## 🌐 Portfolio Website
+Interactive personal portfolio built with React and TailwindCSS, showcasing projects, resume, and contact form. Includes animations, dark mode, mobile support, and is live on Render for recruiters and clients.
+
+---
+
+## 📊 BCG Churn Analysis
+Forage capstone with BCG using real-world customer data to predict churn. Achieved 92% accuracy with a Random Forest model, performed EDA and feature engineering, and generated insights reducing false positives by 12%.
+
+</div>
+
+
 
 <div align="center">
   <h3>✨🚀✨ &nbsp;&nbsp; These projects reflect my passion for building intelligent, scalable, and beautiful software. &nbsp;&nbsp; ✨🚀✨</h3>

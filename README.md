@@ -48,42 +48,61 @@
 </div>
 
 
-<h3 align="center">
-  ✨🔥✨&nbsp;&nbsp;<img src="https://img.icons8.com/fluency/48/rocket.png" width="24"/> <u>Featured Repositories & Projects</u> &nbsp;&nbsp;✨🔥✨
-</h3>
-<p align="center"><span style="font-size:22px;">🚀 A curated gallery of my top open-source works: ML apps, full-stack systems, and design blueprints 🎯</span></p>
+## <h3 align="center">🚀✨ Featured Repositories & Projects ✨🚀</h3>
 
+<p align="center">
+  <img src="https://img.icons8.com/fluency/48/rocket.png" width="30"/>
+  &nbsp;<i>A mobile-optimized showcase of my top open-source projects across AI, Full Stack, and System Design</i>
+  &nbsp;<img src="https://img.icons8.com/color/48/source-code.png" width="30"/>
+</p>
+
+---
 <div align="center">
 
-<h3>
-╔═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╗  
-🌟 Explore by Project Type: 🎙️ ML + Audio &nbsp;&nbsp; 🔐 Auth Systems &nbsp;&nbsp; 🧩 LLD Design &nbsp;&nbsp; 🛍️ Full Stack &nbsp;&nbsp; 🌐 Portfolio &nbsp;&nbsp; 📊 Smart Workspace  
-╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════════╝  
-</h3>
+<h2><u>🎙️ <a href="https://github.com/Jugraunaqsingh/Depression-WebApp-MFCC-RNN">Depression Detection</a></u></h2>
+
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF69B4&center=false&vCenter=true&width=1000&lines=🎙️+Detects+Clinical+Depression+from+Voice+Samples+Using+User+Speech+Patterns;🧠+MFCC+Audio+Feature+Extraction+%2B+Multi-Task+RNN+Model+for+PHQ+Score+Prediction;⚡+Real-Time+Inference+via+FastAPI+%2B+React+Frontend+with+Audio+Interface;📦+GPU-Accelerated+Audio+Preprocessing+via+CuPy+%7C+Dockerized+Deployment+Setup;📊+Stores+Doctor+Feedback+%2B+Retrains+Model+Periodically+via+MongoDB)
+
+---
+
+<h2><u>🔐 <a href="https://github.com/Jugraunaqsingh/jwt-user-order-service">JWT Auth + Order System</a></u></h2>
+
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=0A66C2&center=false&vCenter=true&width=1000&lines=🔐+Robust+JWT-Based+Authentication+%2F+Authorization+for+Admin+%26+Users+with+RBAC;💼+Spring+Boot+Microservice+Architecture+with+Role-Specific+Routing+Capabilities;🛠️+Modular+Order+Placement+%2F+Tracking+APIs+with+Postman+Test+Suites;🗃️+MySQL+Database+Integration+%7C+Secured+CRUD+Operations+via+DTO+Mapping)
+
+---
+
+<h2><u>🧩 <a href="https://github.com/Jugraunaqsingh/LowLevelDesign">Low Level Design</a></u></h2>
+
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF7F50&center=false&vCenter=true&width=1000&lines=🧩+Java-Based+LLD+Practice+for+Scalable+Backend+System+Design+Interviews;📐+Detailed+End-to-End+Designs+for+Parking+Lot%2C+BookMyShow%2C+Splitwise;✅+Covers+OOP+Concepts%2C+SOLID+Principles%2C+GoF+Design+Patterns+in+Depth;📚+Clean+Code+UML-Driven+Breakdown+of+Architecture+and+Responsibilities)
+
+---
+
+<h2><u>🛍️ <a href="https://github.com/Jugraunaqsingh/JugraunaqDripStore">Jugraunaq DripStore</a></u></h2>
+
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=EA4C89&center=false&vCenter=true&width=1000&lines=🛒+Fully+Functional+E-Commerce+Platform+Built+Using+MERN+Stack+Technologies;🧾+Features+Product+Catalog%2C+Admin+Panel%2C+Cart%2C+Checkout+Flows+with+JWT;🎨+TailwindCSS-Based+UI+with+Redux+for+Dynamic+State+Management+Flows;🔐+Includes+Auth%2C+Login%2FSignup%2C+Secure+Session+Storage+%2B+Mobile+Design)
+
+---
+
+<h2><u>🌐 <a href="https://jugraunaq-singh-portfolio-2.onrender.com/">Portfolio Website</a></u></h2>
+
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FACC15&center=false&vCenter=true&width=1000&lines=🌐+Personal+Developer+Portfolio+Created+Using+React+%2B+TailwindCSS+Stack;💼+Contains+Project+Showcase%2C+Resume+PDF+Download%2C+Contact+Form+Access;🚀+Includes+Animations%2C+Dark+Mode%2C+Mobile+Responsiveness+%2C+Live+Deployment;📎+Professional+Branding+Website+Hosted+Live+on+Render+Cloud+Platform)
+
+---
+
+<h2><u>📊 <a href="https://github.com/Jugraunaqsingh/BCG-Churn-Analysis-Case-Study">BCG Churn Analysis</a></u></h2>
+
+![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=38B2AC&center=false&vCenter=true&width=1000&lines=📊+Virtual+Internship+Capstone+with+BCG+via+Forage+Simulated+Case+Study;📈+Performed+EDA%2C+Feature+Engineering%2C+Model+Selection+on+Customer+Data;🤖+Built+92%25+Accurate+Random+Forest+Model+with+0.94+AUC+and+F1%3D0.89;🎯+Generated+Retention+Insights+and+Reduced+False+Churn+Alarms+by+12%25)
 
 </div>
 
 ---
 
-| 🎙️ [**Depression Detection**](https://github.com/Jugraunaqsingh/Depression-WebApp-MFCC-RNN) | 🔐 [**JWT Auth + Order System**](https://github.com/Jugraunaqsingh/jwt-user-order-service) |
-| :------------------------------------------------------------ | :------------------------------------------------------------ |
-| <h1>![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=🎙️+Clinical+Depression+Detection+via+Speech;🧠+MFCC+Audio+Features+%2B+RNN+Model;⚡+FastAPI+%7C+React+%7C+CuPy+GPU+Optimized;📦+Docker+%7C+MongoDB+Feedback+Loop)</h3> | <h3>![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=🔐+JWT-Based+Auth+and+Order+System;💼+Spring+Boot+%7C+RBAC+for+Admin+%2F+User;🛠️+REST+APIs+%2B+Postman+Test+Suites;🗃️+MySQL+%2B+Modular+Microservices)</h3> |
-
-| 🧩 [**Low Level Design**](https://github.com/Jugraunaqsingh/LowLevelDesign) | 🛍️ [**Jugraunaq DripStore**](https://github.com/Jugraunaqsingh/JugraunaqDripStore) |
-| :------------------------------------------------------------ | :------------------------------------------------------------ |
-| <h1>![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=FF7F50&center=true&vCenter=true&width=600&lines=🧩+LLD+System+Design+Practice+in+Java;📐+BookMyShow+%2C+Parking+Lot+%2C+LLD+Cases;✅+OOP+Principles+%2B+SOLID+%2B+GoF+Designs;📚+Perfect+for+Low+Level+Design+Interviews)</h3> | <h3>![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=EA4C89&center=true&vCenter=true&width=600&lines=🛒+MERN+Full-Stack+E-Commerce+Website;🧾+Cart+%2F+Checkout+%2F+Admin+Product+Panel;🎨+Styled+with+TailwindCSS+%2B+Redux+State+Mgmt;🔐+Authentication+%2B+Responsive+Design)</h3> |
-
-| 🌐 [**Portfolio Website**](https://jugraunaq-singh-portfolio-2.onrender.com/) | 📊 [**BCG Churn Analysis**](https://github.com/Jugraunaqsingh/BCG-Churn-Analysis-Case-Study) |
-| :------------------------------------------------------------ | :------------------------------------------------------------ |
-| <h1>![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=FACC15&center=true&vCenter=true&width=600&lines=🌐+My+Developer+Portfolio+Showcase;💼+React+%2B+Tailwind+%2B+Responsive+Design;📎+Project+Links+%2F+Resume+%2F+Contact+Info;🚀+Hosted+Live+on+Render)</h3> | <h3>![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=📊+BCG+Churn+Prediction+%7C+Virtual+Internship+via+Forage;📈+EDA+%2F+Feature+Engineering+%2F+Modeling+Pipeline;🤖+92%25+Accuracy+%2C+0.94+AUC+%2C+F1+Score+0.89;🎯+Actionable+Insights+for+Retention+%2B+Customer+Engagement)</h3> |
-
----
-
 <div align="center">
-<h3>✨🚀✨ &nbsp;&nbsp; <span style="font-size:20px;">These projects reflect my passion for building intelligent, scalable, and beautiful software.</span> &nbsp;&nbsp; ✨🚀✨</h3>
+  <h3>✨🚀✨ &nbsp;&nbsp; These projects reflect my passion for building intelligent, scalable, and beautiful software. &nbsp;&nbsp; ✨🚀✨</h3>
 </div>
 
 ---
+
 
 ---
 

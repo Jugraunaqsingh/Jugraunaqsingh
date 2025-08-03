@@ -119,8 +119,7 @@ Forage capstone with BCG using real-world customer data to predict churn. Achiev
 ## 🧠 LeetCode Stats
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/jugraunaqsingh?theme=dark&font=Source%20Code%20Pro&ext=heatmap)](https://leetcode.com/u/jugraunaqsingh/)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/jugraunaqsingh?theme=unicorn&font=Roboto&ext=heatmap)
 </div>
 ---
 

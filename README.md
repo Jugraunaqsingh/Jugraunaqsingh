@@ -104,7 +104,12 @@ Forage capstone with BCG using real-world customer data to predict churn. Achiev
   <h3>✨🚀✨ &nbsp;&nbsp; These projects reflect my passion for building intelligent, scalable, and beautiful software. &nbsp;&nbsp; ✨🚀✨</h3>
 </div>
 
----
+
+<div>
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=jugraunaqsingh&animated=true)
+</div>
+
+
 
 
 ---

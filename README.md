@@ -105,12 +105,6 @@ Forage capstone with BCG using real-world customer data to predict churn. Achiev
 </div>
 
 
-<div>
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=jugraunaqsingh&animated=true)
-</div>
-
-
-
 
 ---
 
@@ -139,6 +133,16 @@ Forage capstone with BCG using real-world customer data to predict churn. Achiev
 
 </td>
   </tr>
+  <tr>
+  <td colspan="2" align="center"; padding:20px;">
+    <img 
+      src="https://leetcode-badge-showcase.vercel.app/api?username=jugraunaqsingh&animated=true&theme=github-dark" 
+      alt="LeetCode Badges"
+      style="width:50%; max-width:600px; min-width:200px;"
+    />
+  </td>
+</tr>
+  
 </table>
 
 ---

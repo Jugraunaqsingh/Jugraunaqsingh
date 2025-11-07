@@ -115,8 +115,10 @@ Forage capstone with BCG using real-world customer data to predict churn. Achiev
 <img src="https://github-profile-trophy.vercel.app/?username=Jugraunaqsingh&theme=tokyonight&no-frame=true&no-bg=true" />
 </div>
 
-### 🐍 Contribution Snake
-![snake gif](https://raw.githubusercontent.com/Jugraunaqsingh/Jugraunaqsingh/output/snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Jugraunaqsingh/Jugraunaqsingh/output/snake.svg" alt="snake contribution graph"/>
+</div>
+
 
 ---
 

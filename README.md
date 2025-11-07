@@ -112,6 +112,9 @@ Forage capstone with BCG using real-world customer data to predict churn. Achiev
 [![Jugraunaq Singh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jugraunaqsingh&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ##
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jugraunaqsingh&theme=tokyonight" alt="mystreak"/>
+
+
 ---
 
 

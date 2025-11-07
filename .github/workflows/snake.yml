@@ -1,0 +1,27 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # runs every 12 hours
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Jugraunaqsingh
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+      - uses: actions/upload-artifact@v3
+        with:
+          name: snake-animations
+          path: dist
+      - uses: actions/checkout@v3
+      - name: Push to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: output
+          folder: dist

@@ -14,6 +14,23 @@
 
 <br>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="80">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/1.gif" width="80">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/4.gif" width="80">
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/7.gif" width="80">
+</div>
+<div align="center">
+ Play some Pokemon while you're here!
+
+![](https://pokemon.farlow.dev/game)
+ 
+|                                    |                                      |                                     |                                     |                                       |
+| ---------------------------------- | ------------------------------------ | ----------------------------------- | ----------------------------------- | ------------------------------------- |
+|                                    | [⬆️](https://pokemon.farlow.dev/input/UP)    |                                      | [🅱️](https://pokemon.farlow.dev/input/B)     | [🅰️](https://pokemon.farlow.dev/input/A)      |
+| [⬅️](https://pokemon.farlow.dev/input/LEFT) | [⬇️](https://pokemon.farlow.dev/input/DOWN)  | [➡️](https://pokemon.farlow.dev/input/RIGHT) | [⏺️](https://pokemon.farlow.dev/input/START) | [⏏️](https://pokemon.farlow.dev/input/SELECT) |
+
+</div>
 
 
 <div align="center"; margin-bottom="60";>
